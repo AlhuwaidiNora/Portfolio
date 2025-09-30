@@ -25,8 +25,9 @@ I build **robust Java applications, insightful Power BI dashboards, and maintain
 ## 🌟 Projects
 
 1. [**AMANID**](https://github.com/AlhuwaidiNora/AMANID) – A complete Java application designed to improve communication between workers and employers by sending alert messages and accessing scanned documents. The project features a **JavaFX GUI**, **MySQL database**, and **PHP API integration**.
-[**Testing Project – Power BI (SDAIA)**](https://github.com/AlhuwaidiNora/Testing-Project-PowerBI-SDAIA-) – A Power BI project focused on **testing and quality assurance**, developed in collaboration with **SDAIA**. Includes **automated test scripts** and comprehensive documentation to ensure data accuracy and dashboard reliability.
-3. [**Code Refactoring & Re-engineering**](https://github.com/AlhuwaidiNora/Code_Refactoring_Reengineering) – Improving legacy projects with clean, maintainable, and optimized code.  
+2. [**Testing Project – Power BI (SDAIA)**](https://github.com/AlhuwaidiNora/Testing-Project-PowerBI-SDAIA-) – A Power BI project focused on **testing and quality assurance**, developed in collaboration with **SDAIA**. 
+3. [**Juice Shop Testing – Katalon**](https://github.com/AlhuwaidiNora/Juice-Shop-Katalon-Testing) – A comprehensive **automated testing suite** for the OWASP Juice Shop application, developed using **Katalon Studio**. Includes **test scripts for multiple functionalities and scenarios**, ensuring robust **security, functionality, and performance** of the application.
+
 4. [**Testing & QA**](https://github.com/AlhuwaidiNora/Testing_Quality_Assurance) – Automated test scripts, functional & regression testing, and documentation.  
 5. [**Verification Experience**](https://github.com/AlhuwaidiNora/Verification_Experience) – Basic SystemVerilog testbench showcasing initial exposure to hardware verification.
 
