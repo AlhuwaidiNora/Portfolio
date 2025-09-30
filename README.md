@@ -24,7 +24,7 @@ I build **robust Java applications, insightful Power BI dashboards, and maintain
 
 ## 🌟 Projects
 
-1. [**Java Projects**](https://github.com/AlhuwaidiNora/Java_Projects) – Modular, clean, and fully tested Java applications demonstrating OOP, design patterns, and maintainable code.  
+1. [**AMANID**](https://github.com/AlhuwaidiNora/AMANID) – A complete Java application designed to improve communication between workers and employers by sending alert messages and accessing scanned documents. The project features a **JavaFX GUI**, **MySQL database**, and **PHP API integration**.
 2. [**Data Analysis & Power BI**](https://github.com/AlhuwaidiNora/Data_Analysis_PowerBI) – Interactive dashboards and insights from real-world datasets.  
 3. [**Code Refactoring & Re-engineering**](https://github.com/AlhuwaidiNora/Code_Refactoring_Reengineering) – Improving legacy projects with clean, maintainable, and optimized code.  
 4. [**Testing & QA**](https://github.com/AlhuwaidiNora/Testing_Quality_Assurance) – Automated test scripts, functional & regression testing, and documentation.  
