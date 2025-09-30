@@ -1,1 +1,42 @@
-# Portfolio
+# Nora Alhuwaidi – Portfolio 👋
+
+Hi, I'm **Nora**, a Software Engineer specializing in **Data Analysis, Power BI, Java Development, Refactoring, Testing, and Quality Assurance**.  
+I build **robust Java applications, insightful Power BI dashboards, and maintainable high-quality code** with a focus on **refactoring, re-engineering, and automated testing**.
+
+---
+
+## 🔧 Skills
+
+### Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### Code Quality & Refactoring
+![Refactoring](https://img.shields.io/badge/Refactoring-4B0082?style=flat)
+![Unit Testing](https://img.shields.io/badge/Testing-28A745?style=flat)
+
+---
+
+## 🌟 Projects
+
+1. [**Java Projects**](https://github.com/AlhuwaidiNora/Java_Projects) – Modular, clean, and fully tested Java applications demonstrating OOP, design patterns, and maintainable code.  
+2. [**Data Analysis & Power BI**](https://github.com/AlhuwaidiNora/Data_Analysis_PowerBI) – Interactive dashboards and insights from real-world datasets.  
+3. [**Code Refactoring & Re-engineering**](https://github.com/AlhuwaidiNora/Code_Refactoring_Reengineering) – Improving legacy projects with clean, maintainable, and optimized code.  
+4. [**Testing & QA**](https://github.com/AlhuwaidiNora/Testing_Quality_Assurance) – Automated test scripts, functional & regression testing, and documentation.  
+5. [**Verification Experience**](https://github.com/AlhuwaidiNora/Verification_Experience) – Basic SystemVerilog testbench showcasing initial exposure to hardware verification.
+
+---
+
+## 📫 Contact
+
+- **Email:** Alhuwaidinr@gmail.com  
+- **LinkedIn:** [linkedin.com/in/nora-alhuwaidi-2a89841b3](https://www.linkedin.com/in/nora-alhuwaidi-2a89841b3)  
+
+---
+
+✨ Let's connect and build **clean code, insightful data solutions, and high-quality software** together!
